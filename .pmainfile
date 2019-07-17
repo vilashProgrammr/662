@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"mainfile":"src/index.html","terminalcommand":"npm start"}
+=======
+{"mainfile":"src/index.html","terminalcommand":"npm install && npm start"}
+>>>>>>> c5d3788c969bd44dd52f81b5920f0fd51b3535ba
